@@ -44,3 +44,7 @@ fb () {
 repos () {
   cd ~/Desktop/repos
 }
+
+desk () {
+  cd ~/Desktop
+}

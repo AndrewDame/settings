@@ -3,3 +3,7 @@ ms-dotnettools.csharp
 ms-vscode-remote.remote-ssh
 ms-vscode-remote.remote-ssh-edit
 peakchen90.vue-beautify
+ecmel.vscode-html-css
+esbenp.prettier-vscode
+octref.vetur
+jcbuisson.vue
